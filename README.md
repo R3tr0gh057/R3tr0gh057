@@ -28,7 +28,7 @@
 
 ###
 
-<img align="right" height="180" src="https://media1.tenor.com/m/EZfqpNjlfTgAAAAd/you-look-lonely-i-can-fix-that.gif"  />
+<img align="right" height="180" src="https://c.tenor.com/EZfqpNjlfTgAAAAd/tenor.gif"  />
 
 ###
 
