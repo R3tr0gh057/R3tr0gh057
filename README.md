@@ -2,7 +2,7 @@
 ![Header](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh1cTFvM2JlNnRzMjRwbDh6b2h3aG5yMHJkdWR5NThxeGQ5aDQ4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MM0Jrc8BHKx3y/giphy.gif)  
 *A passionate developer exploring the worlds of automation, IoT, and cybersecurity!*  
 
----
+
 
 ## 🌟 **About Me**  
 🔹 **Currently Working On:** A Web Automation Toolkit using Playwright  
@@ -10,12 +10,12 @@
 🔹 **Learning:** Advanced Automation Techniques & Cybersecurity Research  
 🔹 **Ask Me About:** Anything related to **IoT, Cybersecurity, and Automation!**  
 
----
+
 
 ## 🌍 **Connect With Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joe-sanjo-b0429a262)  
 
----
+
 
 ## 💻 **Tech Stack**
 ### **Programming & Scripting**  
@@ -41,7 +41,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)  
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
 
----
+
 
 ## 📈 **GitHub Stats**  
 <table>
@@ -60,14 +60,14 @@
 🔝 **Top Contributed Repos:**  
 <img src="https://github-contributor-stats.vercel.app/api?username=R3tr0gh057&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos">  
 
----
+
 
 ## 🎯 **Fun Facts About Me**  
 - 💀 My alias "**R3tr0gh057**" is inspired by my love for retro tech and cybersecurity.  
 - 🛠️ I love **hacking together** automation tools for **fun & research**.  
 - 🎮 Outside of coding, I enjoy **gaming & cyber challenge competitions**.  
 
----
+
 
 ✨ **Visitor Count**  
 ![Visitor Count](https://visitcount.itsvg.in/api?id=R3tr0gh057&icon=0&color=0)  
